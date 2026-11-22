@@ -98,12 +98,14 @@ Learning, experimenting, and building what comes next.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087BFF,55:0B2D66,100:020617&height=120&section=footer"/>
+
 
 ### HAMIX
 
 **BEYOND IDEAS. INTO REALITY.**
 
 <sub>© HAMIX — All Rights Reserved.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087BFF,55:0B2D66,100:020617&height=120&section=footer"/>
 
 </div>
