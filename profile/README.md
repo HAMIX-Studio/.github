@@ -101,12 +101,6 @@ Learning, experimenting, and building what comes next.
 
 <br/><br/>
 
-<a href="YOUR_YOUTUBE_URL">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://hamix10.netlify.app/">
-<img src="https://img.shields.io/badge/WEBSITE-087BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 </div>
 
