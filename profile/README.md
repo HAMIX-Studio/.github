@@ -8,16 +8,6 @@
 ### CREATIVITY. TECHNOLOGY. INNOVATION.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Ideas+into+reality.;Designed+to+create.;Built+to+go+beyond." />
-
-<br/>
-
-<a href="https://hamix10.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20HAMIX-087BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
