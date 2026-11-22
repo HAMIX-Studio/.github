@@ -1,8 +1,6 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B2D66,100:087BFF&text=HAMIX&fontSize=100&fontColor=FFFFFF&fontAlignY=42&desc=INDEPENDENT%20DIGITAL%20STUDIO&descSize=15&descAlignY=65&animation=fadeIn" />
-
-<br/>
+<div align="center">
+  <img src="./hamix-banner.png" width="100%" alt="HAMIX Studio" />
+</div>
 
 ### CREATIVITY. TECHNOLOGY. INNOVATION.
 
