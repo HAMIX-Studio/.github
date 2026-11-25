@@ -72,32 +72,6 @@ Learning, experimenting, and building what comes next.
 
 <div align="center">
 
-## CONNECT WITH HAMIX
-
-<br/>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="YOUR_TELEGRAM_URL">
-<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-
-</div>
-
----
-
-<div align="center">
-
 
 
 ### HAMIX
